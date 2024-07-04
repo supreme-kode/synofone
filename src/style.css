@@ -1,0 +1,47 @@
+/* Navbar */
+.navbar-brand img {
+    width: 120px;
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+
+.navbar-nav form .form-control {
+    width: 450px;
+}
+
+.navbar-nav .btn {
+    width: 150px;
+}
+
+/* carosel */
+#banner .carousel img {
+    width: 100%;
+}
+
+#banner .brand img {
+    width: 100%;
+}
+
+/* smartfone */
+.smartphone a {
+    text-decoration: none;
+    color: black;
+}
+
+.smartphone a:hover{
+    text-decoration: underline yellow;
+}
+
+/* details */
+.detail .colors .color-options .btn { 
+    width: 135px;
+    border: 1px solid #CDCDCD;
+}
+.detail .colors .color-options .btn:focus { 
+    width: 135px;
+    background-color: #0d6efd;
+    color: white;
+    font-weight: 600;
+}
